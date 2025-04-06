@@ -1,1 +1,2 @@
-ALTER TABLE room_category ADD PRIMARY KEY (room_category);
+ALTER TABLE room_category ADD PRIMARY KEY (room_category)
+;
