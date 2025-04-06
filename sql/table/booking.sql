@@ -1,7 +1,7 @@
 CREATE TABLE booking (
-  booking_id INT
-, customer_id INT
-, room_id INT
+  booking_id INT NOT NULL
+, customer_id INT NOT NULL
+, room_id INT NOT NULL
 , booking_date DATE NOT NULL
 , start_datetime DATE NOT NULL
 , end_datetime DATE NOT NULL
