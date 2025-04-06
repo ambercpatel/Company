@@ -1,0 +1,2 @@
+ALTER TABLE room ADD PRIMARY KEY (room_id)
+;
